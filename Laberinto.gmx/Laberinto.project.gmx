@@ -28,6 +28,7 @@
       <sprite>sprites\sprCandado_rojo</sprite>
       <sprite>sprites\sprCandadoMorado</sprite>
     </sprites>
+    <sprite>sprites\sprite12</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background1</background>
@@ -58,9 +59,12 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\Inicio</room>
+    <room>rooms\Instrucciones</room>
     <room>rooms\Nivel1</room>
     <room>rooms\Nivel2</room>
     <room>rooms\Nivel3</room>
+    <room>rooms\Game_over</room>
+    <room>rooms\Final</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
